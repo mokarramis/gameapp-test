@@ -3,5 +3,5 @@ package entity
 type User struct {
 	ID    uint
 	Name  string
-	Phone int
+	Phone string
 }
